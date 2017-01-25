@@ -1,12 +1,18 @@
-{
-	"user": [
-		{
-			"nama": "Eldo Greshard",
-			"age": "20"
-		},
-		{
-			"nama": "91leak",
-			"age": "1000"
-		}
-	]
-}
+[
+	{
+		"nama": "Eldo Greshards",
+		"age": "40"
+	},
+	{
+		"nama": "91leak",
+		"age": "1000"
+	},
+	{
+		"nama": "99leak",
+		"age": "10"
+	},
+	{
+		"nama": "91leaks",
+		"age": "109"
+	}
+]
